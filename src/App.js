@@ -1,16 +1,11 @@
 import {
-  BrowserRouter as Router,
-  Switch,
-  Route,
-  Link,
-  useRouteMatch,
-  useParams,
   BrowserRouter,
+  Route,
   Routes
 } from "react-router-dom";
-import { Home } from "./home/Home";
-import { Hotel } from "./hotel/Hotel";
-import { List } from "./list/List";
+import { Home } from "./Pages/home/Home";
+import { Hotel } from "./Pages/hotel/Hotel";
+import { List } from "./Pages/list/List";
 
 
 function App() {
