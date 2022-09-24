@@ -1,6 +1,8 @@
 import Featured from "../../Components/featured/Featured";
 import FeaturedHotel from "../../Components/featuredHotel/FeaturedHotel";
+import Footer from "../../Components/footer/Footer";
 import Header from "../../Components/header/Header";
+import MailingList from "../../Components/mailingList/MailingList";
 import { Navbar } from "../../Components/navbar/Navbar";
 import PropertyList from "../../Components/PropertyList/PropertyList";
 import "./home.css";
@@ -15,6 +17,8 @@ export const Home = () => {
           <PropertyList/>
           <h1 className="homeTitle">Homes guests love</h1>
           <FeaturedHotel/>
+          <MailingList/>
+          <Footer/>
         </div>
         
       </div>
