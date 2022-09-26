@@ -26,3 +26,8 @@
 .col-item>a:hover{
     color: orange;
 }
+.copyrigth{
+width: 100%;
+max-width: 1024px;
+margin-bottom: 10px;
+}

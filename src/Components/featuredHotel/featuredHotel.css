@@ -20,7 +20,7 @@
 }
 .featuredHotelTextsHotelName,.featuredHotelTextsHotelPrice{
     font-weight: bold;
-    font-size: 13;
+    font-size: 12px;
 }
 .featuredHotelTextsHotelRateNumber {
   background-color: darkslateblue;
