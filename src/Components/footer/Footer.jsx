@@ -109,30 +109,6 @@ const Footer = () => {
           <li className="col-item">
             <a href="/"> Press center</a>
           </li>
-          <li className="col-item">
-            <a href="/"> Safety Resource Center</a>
-          </li>
-          <li className="col-item">
-            <a href="/"> Investor relations</a>
-          </li>
-          <li className="col-item">
-            <a href="/"> Terms & conditions</a>
-          </li>
-          <li className="col-item">
-            <a href="/"> Partner dispute</a>
-          </li>
-          <li className="col-item">
-            <a href="/"> How We Work</a>
-          </li>
-          <li className="col-item">
-            <a href="/"> Privacy & cookie statement</a>
-          </li>
-          <li className="col-item">
-            <a href="/"> MSA statement</a>
-          </li>
-          <li className="col-item">
-            <a href="/"> Corporate contact</a>
-          </li>
         </ul>
       </div>
       <div className="copyrigth">
